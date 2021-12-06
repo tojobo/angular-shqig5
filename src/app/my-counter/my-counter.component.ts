@@ -25,3 +25,4 @@ export class MyCounterComponent {
   reset() {
     this.store.dispatch(reset());
   }
+}
